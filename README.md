@@ -11,7 +11,7 @@ engagement.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/reddit-sentiment-analysis.git
+   git clone https://github.com/AishwaryaBalajee/Reddit-Data-Scraping-and-Sentiment-Analysis.git
 
 2. **Install Dependencies**
    ```bash
