@@ -142,8 +142,8 @@ for author, content in author_summary.items():
     )
     # If the post details are required, please uncomment the print lines below
     
-    print(author)
-    print(content['messages'])
-    print(content['average_polarity'])
+    # print(author)
+    # print(content['messages'])
+    # print(content['average_polarity'])
     print(completion.choices[0].message.content)
     print("\n---\n")
